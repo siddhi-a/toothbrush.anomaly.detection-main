@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore VS Code settings (if you use it)
+.vscode/
+
+# Ignore all installed packages
+*.egg-info/
+*.dist-info/

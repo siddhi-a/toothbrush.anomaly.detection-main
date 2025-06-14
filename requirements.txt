@@ -1,0 +1,12 @@
+protobuf==3.20.3
+numpy==1.23.0
+tensorflow==2.12.0
+keras==2.12.0
+streamlit
+opencv-python-headless==4.11.0.86
+pillow
+scikit-learn==1.0.2
+matplotlib==3.5.1
+pandas
+scipy==1.8.0
+pyarrow
